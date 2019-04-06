@@ -9,3 +9,4 @@ msgstr "ページ %d"
 
 msgid "HEADER_NEWS"
 msgstr "ニュース"
+
