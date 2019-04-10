@@ -60,4 +60,3 @@ msgstr "注目作品"
 
 msgid "CATEGORY_random"
 msgstr "@作品をランダムに表示"
-
